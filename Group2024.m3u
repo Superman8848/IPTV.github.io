@@ -121,16 +121,8 @@ http://192.168.123.1:8012/udp/225.1.8.61:8002
 http://192.168.123.1:8012/udp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京IPTV4K超清[4K]
 http://192.168.123.1:8012/udp/225.1.8.211:8002
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://192.168.123.1:8012/udp/225.1.8.116:8056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV1
 http://192.168.123.1:8012/rtp/225.1.8.32:8152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV2
-http://192.168.123.1:8012/udp/225.1.8.193:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV3
-http://192.168.123.1:8012/udp/225.1.8.194:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV4
-http://192.168.123.1:8012/udp/225.1.8.195:4120
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BTV卡酷少儿
 http://192.168.123.1:8012/udp/225.1.8.130:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",BTV国际
@@ -229,10 +221,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="D04" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="国际",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="D05" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="国际",明珠台
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-#EXTINF:-1 tvg-id="D06" tvg-name="J2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png" group-title="国际",J2
-http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 tvg-id="D07" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="D08" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
