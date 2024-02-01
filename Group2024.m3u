@@ -61,10 +61,6 @@ http://192.168.123.1:8012/udp/225.1.8.118:8002
 http://192.168.123.1:8012/udp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BTV卡酷少儿[高清]
 http://192.168.123.1:8012/udp/225.1.8.35:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",BTV冬奥纪实 4K HDR[4K]
-http://192.168.123.1:8012/udp/225.1.8.120:8002
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",BTV冬奥纪实 4K SDR[4K]
-http://192.168.123.1:8012/udp/225.1.8.164:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",房山电视台[高清]
 http://192.168.123.1:8012/udp/225.1.8.68:8002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",朝阳融媒[高清]
