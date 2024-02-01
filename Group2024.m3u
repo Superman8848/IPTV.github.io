@@ -105,16 +105,6 @@ http://192.168.123.1:8012/udp/225.1.8.172:8162
 http://192.168.123.1:8012/udp/225.1.8.31:8156
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",纪实人文[高清]
 http://192.168.123.1:8012/udp/225.1.8.53:8060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",每日影院[高清]
-http://192.168.123.1:8012/udp/225.1.8.97:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",幸福剧场[高清]
-http://192.168.123.1:8012/udp/225.1.8.98:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",幸福娱乐[高清]
-http://192.168.123.1:8012/udp/225.1.8.99:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",风尚生活[高清]
-http://192.168.123.1:8012/udp/225.1.8.103:8002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",体育赛事[高清]
-http://192.168.123.1:8012/udp/225.1.8.81:8176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",爱上4K[4K]
 http://192.168.123.1:8012/udp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京IPTV淘精彩[高清]
