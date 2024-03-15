@@ -217,6 +217,35 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际时事",CGTN Documentary
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#山东
+#EXTINF:-1 group-title="山东台" tvg-id="临沂新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small453f8c94e42b110ca9d6c59b24ed841a1511330710.jpg",临沂新闻综合频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="临沂公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small9209424334b1b8964825f75a91322db71511330890.jpg",临沂公共频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="临沂农科频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg",临沂农科频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="枣庄公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0705/small235d6de058f24b51c4547975a421e3c51530760909.jpg",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="烟台公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small5a551979a4de45711a674809ce8f6fe31511321665.jpg",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="烟台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small2c63a6fe7b351d57c0b1eaa53460c5471511321759.jpg",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="威海一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0624/20160624105408278.jpg",威海一套新闻综合频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="威海二套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0624/20160624104746966.jpg",威海二套公共频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="威海三套海洋频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0524/small3866d97a63fbf2a4821f68de82e656a91590309656.jpg",威海三套海洋频道
+http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="新泰电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/small455714d029443bcfbe7abe289cc626f91539335940.jpg",新泰电视台综合频道
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="新泰乡村党建频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/smallc58e58767dd19c44b811e5a2c3c67bf81539336034.jpg",新泰乡村党建频道
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="新泰生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/small2a370d743b7ecbdf1b51371d254d76ff1539336121.jpg",新泰生活频道
+http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+#EXTINF:-1 group-title="山东台" tvg-id="新泰影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/1012/smallfd8167c0d388cdbd07b4f29133d1f9091539336196.jpg",新泰影视频道
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+
+
 #湖南/14个频道
 #EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="地方特色",金鹰纪实
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
