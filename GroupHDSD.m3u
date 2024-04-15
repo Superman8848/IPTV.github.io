@@ -37,6 +37,8 @@ http://192.168.123.1:8012/rtp/225.1.8.189:8002
 http://192.168.123.1:8012/rtp/225.1.0.95:8144
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://192.168.123.1:8012/rtp/225.1.8.223:2000
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+http://192.168.123.1:8012/rtp/225.1.8.224:2000
 #EXTINF:-1 tvg-name="IPTV 4K超清" tvg-logo="https://live.fanmingming.com/tv/IPTV 4K超清.png",IPTV 4K超清
 http://192.168.123.1:8012/rtp/225.1.0.205:1025
 #EXTINF:-1 tvg-name="测试4K超清" tvg-logo="https://live.fanmingming.com/tv/测试4K超清.png",测试4K超清
